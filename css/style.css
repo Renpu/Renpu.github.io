@@ -1,0 +1,46 @@
+.header{
+    background: #1F7171;
+    
+}
+
+.header>p{
+    font-size: 24px;
+    color: #D7CFB9;
+}
+
+.hello{
+    position: relative;
+}
+
+.left-bottom{
+    position: fixed;
+    z-index: 1;
+    width: 300px;
+    margin-top: 300px;
+    
+}
+
+.main{
+    min-height: 600px;
+    background: #ADCBC9;
+    z-index: 999;
+}
+
+.prize{
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.footer{
+    background: #1F7171;
+}
+
+.footer>p{
+    font-size: 17px;
+    color: #D7CFB9;
+    padding: 30px;
+}
+
+.footer>a{
+    color: #D7CFB9;
+}
